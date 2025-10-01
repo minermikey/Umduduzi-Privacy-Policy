@@ -78,7 +78,10 @@ Our app is intended for donors, volunteers, and supporters. It is not directed t
 
 We may update this Privacy Policy from time to time. Any changes will be posted within the app and updated with a new effective date.
 
-9. Contact Us
+9. Account deletion
+For account deletion email umduduziapp@gmail.com with title 
+
+11. Contact Us
 
 If you have questions about this Privacy Policy or your personal data, please contact us at:
 (https://www.umduduzi.co.za/)
